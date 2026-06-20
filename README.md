@@ -29,23 +29,23 @@
 </td>
 <td width="55%" valign="middle">
 
-<h3>4+ 年</h3>
-
-运维经验 · 大型票务 &amp; 预订系统
-
 <br/>
 
-<h3>MSc</h3>
+<img src="https://img.shields.io/badge/4%2B_Years-Ops_Engineering-e94560?style=for-the-badge&labelColor=1a1a2e"/>
 
-计算机工程 · 在读中
+<br/><sub>大型票务 &amp; 预订系统</sub><br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/MSc-Computer_Engineering-63b3ed?style=for-the-badge&labelColor=1a1a2e"/>
 
-**🎯 华为 · 中兴 · 腾讯**
+<br/><sub>计算机工程 · 在读中</sub><br/><br/>
+
+<img src="https://img.shields.io/badge/Target-Huawei_%7C_ZTE_%7C_Tencent-9ae6b4?style=for-the-badge&labelColor=1a1a2e"/>
 
 <br/><br/>
 
 <sub><a href="mailto:rejashamim2@gmail.com">📧 rejashamim2@gmail.com</a></sub>
+
+<br/>
 
 </td>
 </tr>
@@ -79,7 +79,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shameemreza2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=63b3ed&icon_color=e94560&text_color=ffffff" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shameemreza2&theme=tokyonight&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=63b3ed" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=shameemreza2&theme=tokyonight&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=63b3ed" width="49%"/>
 </p>
 
 ---
